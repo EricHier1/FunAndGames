@@ -1,4 +1,4 @@
-# Text-Based Adventure Game
+# torment.py
 
 This is a text-based adventure game inspired by Planescape: Torment. In this game, you will go on a journey through a world filled with strange creatures and environments. Your choices will determine the outcome of the game.
 
