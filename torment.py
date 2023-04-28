@@ -6,7 +6,7 @@ def print_slow(text):
     for char in text:
         sys.stdout.write(char)
         sys.stdout.flush()
-        #time.sleep(0.02)
+        time.sleep(0.03)
     print("")
 
 def start_game():
